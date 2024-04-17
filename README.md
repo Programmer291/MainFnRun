@@ -1,3 +1,5 @@
+MAKE SURE TO RUN AS ADMIN OR ELSE IT WONT WORK!
+
 Key to enter when you launch (1 Day key btw): DFHJ-ERF4-K13L-WE92 
 
 
